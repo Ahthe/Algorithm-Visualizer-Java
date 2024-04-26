@@ -51,10 +51,10 @@ Here are some examples of the algorithms in action:
 ![Quick Sort Algorithm](quick-sort-smallbar.gif)
 
 ### Heap Sort ⚖️
-![Heap Sort Algorithm](heap_sort.gif)
+![Heap Sort Algorithm](heapSort-smallbar.gif)
 
 ### Coctail Sort 🍹
-![Coctail Sort Algorithm](coctail_sort.gif)
+![Coctail Sort Algorithm](coctail-sort.gif)
 
 ## Contributions 🤝
 
