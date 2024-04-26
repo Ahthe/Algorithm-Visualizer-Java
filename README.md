@@ -48,7 +48,7 @@ To run the Algorithm Visualizer Java project on your local machine, follow these
 Here are some examples of the algorithms in action:
 
 ### Quick Sort Algorithm ⚡
-![Quick Sort Algorithm](quick_sort.gif)
+![Quick Sort Algorithm](quick-sort-smallbar.gif)
 
 ### Heap Sort ⚖️
 ![Heap Sort Algorithm](heap_sort.gif)
