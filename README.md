@@ -31,7 +31,7 @@ Please note that while the sorting algorithms are working properly, the path-fin
 
 To run the Algorithm Visualizer Java project on your local machine, follow these steps:
 
-1. Clone the repository: https://github.com/your-username/Algorithm-Visualizer-Java.git
+1. Clone the repository: https://github.com/Ahthe/Algorithm-Visualizer-Java.git
 
 2. Make sure you have Java Development Kit (JDK) installed on your system. 🔧
 
